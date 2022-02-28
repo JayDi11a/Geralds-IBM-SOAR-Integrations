@@ -1,0 +1,4 @@
+include README.md
+include fn_ivanti_service_manager/util/*
+include fn_ivanti_service_manager/LICENSE
+include fn_ivanti_service_manager/doc/*

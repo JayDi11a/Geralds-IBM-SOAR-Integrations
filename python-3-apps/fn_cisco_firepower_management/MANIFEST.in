@@ -1,0 +1,4 @@
+include README.md
+include fn_cisco_firepower_management/util/*
+include fn_cisco_firepower_management/LICENSE
+include doc/*

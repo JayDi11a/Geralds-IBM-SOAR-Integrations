@@ -1,0 +1,4 @@
+include README.md
+include fn_qradar_asset/util/*
+include fn_qradar_asset/LICENSE
+include fn_qradar_asset/doc/*

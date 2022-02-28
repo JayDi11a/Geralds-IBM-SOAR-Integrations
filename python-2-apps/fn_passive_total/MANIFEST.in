@@ -1,0 +1,3 @@
+include README.md
+include fn_passive_total/util/*
+include fn_passive_total/LICENSE

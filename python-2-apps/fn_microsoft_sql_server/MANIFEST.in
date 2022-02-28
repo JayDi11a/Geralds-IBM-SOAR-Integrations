@@ -1,0 +1,3 @@
+include README.md
+include fn_microsoft_sql_server/util/*
+include fn_microsoft_sql_server/LICENSE

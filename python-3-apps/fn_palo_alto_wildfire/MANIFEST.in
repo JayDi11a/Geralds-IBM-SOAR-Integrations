@@ -1,0 +1,4 @@
+include README.md
+include fn_palo_alto_wildfire/util/*
+include fn_palo_alto_wildfire/LICENSE
+include doc/*

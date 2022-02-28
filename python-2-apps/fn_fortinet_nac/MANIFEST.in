@@ -1,0 +1,3 @@
+include README.md
+include fn_fortinet_nac/util/*
+include fn_fortinet_nac/LICENSE

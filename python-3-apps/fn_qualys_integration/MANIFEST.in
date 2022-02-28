@@ -1,0 +1,4 @@
+include README.md
+include fn_qualys_integration/util/*
+include fn_qualys_integration/LICENSE
+include doc/*

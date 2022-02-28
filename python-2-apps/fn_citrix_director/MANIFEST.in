@@ -1,0 +1,3 @@
+include README.md
+include fn_citrix_director/util/*
+include fn_citrix_director/LICENSE

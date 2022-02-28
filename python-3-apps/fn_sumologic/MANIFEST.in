@@ -1,0 +1,4 @@
+include README.md
+include fn_sumologic/util/*
+include fn_sumologic/LICENSE
+include doc/*

@@ -1,0 +1,4 @@
+include README.md
+include fn_fireeye_ax_file_submit/util/*
+include fn_fireeye_ax_file_submit/LICENSE
+include fn_fireeye_ax_file_submit/doc/*

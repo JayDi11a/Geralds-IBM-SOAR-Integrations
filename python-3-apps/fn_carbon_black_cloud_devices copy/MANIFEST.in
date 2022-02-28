@@ -1,0 +1,4 @@
+include README.md
+include fn_carbon_black_cloud_devices/util/*
+include fn_carbon_black_cloud_devices/LICENSE
+include doc/*

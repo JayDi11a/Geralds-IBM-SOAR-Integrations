@@ -1,0 +1,4 @@
+include README.md
+include fn_sentinalone_endpoint_protection/util/*
+include fn_sentinalone_endpoint_protection/LICENSE
+include fn_sentinalone_endpoint_protection/doc/*

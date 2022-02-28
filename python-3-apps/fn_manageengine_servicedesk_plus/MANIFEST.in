@@ -1,0 +1,4 @@
+include README.md
+include fn_manageengine_servicedesk_plus/util/*
+include fn_manageengine_servicedesk_plus/LICENSE
+include doc/*

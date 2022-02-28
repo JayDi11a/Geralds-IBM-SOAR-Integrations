@@ -1,0 +1,4 @@
+include README.md
+include fn_bluecoat_recategorization/util/*
+include fn_bluecoat_recategorization/LICENSE
+include fn_bluecoat_recategorization/doc/*

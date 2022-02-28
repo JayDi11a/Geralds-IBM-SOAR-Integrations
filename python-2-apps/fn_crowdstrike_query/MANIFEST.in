@@ -1,0 +1,3 @@
+include README.md
+include fn_crowdstrike_query/util/*
+include fn_crowdstrike_query/LICENSE

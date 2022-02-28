@@ -1,0 +1,4 @@
+include README.md
+include fn_palo_alto_panorama/util/*
+include fn_palo_alto_panorama/LICENSE
+include fn_palo_alto_panorama/doc/*

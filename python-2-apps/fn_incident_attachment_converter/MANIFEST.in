@@ -1,0 +1,3 @@
+include README.md
+include fn_incident_attachment_converter/util/*
+include fn_incident_attachment_converter/LICENSE

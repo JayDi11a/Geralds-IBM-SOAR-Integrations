@@ -1,0 +1,4 @@
+include README.md
+include fn_phishcheck/util/*
+include fn_phishcheck/LICENSE
+include fn_phishcheck/doc/*
