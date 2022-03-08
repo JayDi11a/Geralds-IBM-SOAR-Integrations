@@ -22,12 +22,12 @@ def snake_to_camel(word):
 
 setup(
     name="fn_my_urlhaus",
-    display_name="<<display name of your app here>>",
+    display_name="Alternative URLhaus",
     version="1.0.0",
-    license="<<insert here>>",
-    author="<<your name here>>",
-    author_email="you@example.com",
-    url="<<your company url>>",
+    license="MIT License",
+    author="Gerald Trotman",
+    author_email="gerald.trotman@ibm.com",
+    url="www.ibm.com",
     description="Resilient Circuits Components for 'fn_my_urlhaus'",
     long_description="""Resilient Circuits Components for 'fn_my_urlhaus'""",
     install_requires=[
