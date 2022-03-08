@@ -27,7 +27,11 @@ setup(
     license="MIT License",
     author="Gerald Trotman",
     author_email="gerald.trotman@ibm.com",
+<<<<<<< HEAD
     url="www.ibm.com",
+=======
+    url="http://www.ibm.com",
+>>>>>>> 612b1f1b67525ff93288d22f875dca4fa093c360
     description="Resilient Circuits Components for 'fn_my_urlhaus'",
     long_description="""Resilient Circuits Components for 'fn_my_urlhaus'""",
     install_requires=[
